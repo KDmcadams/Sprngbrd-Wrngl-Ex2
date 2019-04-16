@@ -6,5 +6,7 @@ This is the repository for files related to the second data wrangling exercise i
 This repository contains 3 files
 
 IDS Proj 2 Code.R - The R code for the exercise
+
 Titanic_original.csv - The original data set we are working with
+
 Titanic_clean.csv - The modified data set after completing the steps of the exercise.
